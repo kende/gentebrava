@@ -11,7 +11,7 @@ let layouts = {
 let resolvedLayouts = {}
 
 export default {
-  head: {"meta":[],"link":[],"style":[],"script":[]},
+  head: {"title":"Gente Brava","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":"In the dark you can't see the flag, but you can hear the racing beat of our hearts."},{"property":"og:title","content":"Gente Brava"},{"property":"og:description","content":"In the dark you can't see the flag, but you can hear the racing beat of our hearts."},{"property":"og:url","content":"https:\u002F\u002Fgentebrava.com"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Fgentebrava-favicon.ico"},{"href":"https:\u002F\u002Ffonts.googleapis.com\u002Fcss?family=Archivo+Black","rel":"stylesheet"}],"style":[],"script":[]},
   render(h, props) {
     const loadingEl = h('nuxt-loading', { ref: 'loading' })
     const layoutEl = h(this.layout || 'nuxt')
