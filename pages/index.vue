@@ -136,7 +136,7 @@ export default {
   position: absolute;
   left: 0;
   top: 0;
-  filter: blur(2px);
+  filter: blur(1px);
 }
 .background-img img,
 .background-mobile img {
@@ -346,7 +346,7 @@ a.spacequest{
 
 @keyframes blurin {
   from {
-    filter: blur(4px);
+    filter: blur(2px);
   }
   to {
     filter: blur(0px);
