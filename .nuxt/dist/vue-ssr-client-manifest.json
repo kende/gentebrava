@@ -5,22 +5,22 @@
     "img/featured_mobile.5a25b9d.png",
     "img/featured.7927118.png",
     "img/gentebrava-bg.7927118.png",
-    "pages/index.be9c228e66b5f87b4ba0.js",
+    "pages/index.52f779edd1d6dd082569.js",
     "layouts/default.c605bf7c8c94c47a9469.js",
     "img/featured_small.84c9715.png",
     "app.f14ad1629dbbb71a250d.js",
-    "manifest.208d7d6d04ba46bc6bbd.js",
+    "manifest.bf73c950dcecd3b8db4c.js",
     "LICENSES",
     "index.spa.html",
     "index.ssr.html"
   ],
   "initial": [
-    "manifest.208d7d6d04ba46bc6bbd.js",
+    "manifest.bf73c950dcecd3b8db4c.js",
     "vendor.dd0476f2265765c252e6.js",
     "app.f14ad1629dbbb71a250d.js"
   ],
   "async": [
-    "pages/index.be9c228e66b5f87b4ba0.js",
+    "pages/index.52f779edd1d6dd082569.js",
     "layouts/default.c605bf7c8c94c47a9469.js"
   ],
   "modules": {

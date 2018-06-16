@@ -113,6 +113,10 @@ export default {
 </script>
 
 <style scoped>
+body {
+  margin: 0px;
+}
+
 .landing-header {
   text-align: center;
 }
