@@ -114,7 +114,7 @@ export default {
 
 <style scoped>
 body {
-  margin: 0px;
+  margin: 0;
 }
 
 .landing-header {
@@ -127,7 +127,7 @@ body {
   letter-spacing: 5px;
 }
 .subtitle {
-  margin-top: 8px;
+  /* margin-top: 8px;*/
   font-family: rational-light, sans-serif;
   font-size: 16px;
   line-height: 1em;
